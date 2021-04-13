@@ -1,0 +1,10 @@
+make    "go to prison" send you from field 31  to field 11, and make choice between 3 rolls to get a pair or pay 1000.
+make    pass "start" pay you 4000.
+make     "try your luck" random so you dont know, if you get money or have to pay them.
+make    dont get money from parking field 21.
+make    property price individual.
+make    rent go to the right player.
+
+
+ekstra ekstra
+make    add house and hotels
